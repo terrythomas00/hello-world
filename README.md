@@ -1,3 +1,4 @@
 # hello-world
-first respository
-I am learning java, javascript, and servlets/jsp
+echo "this script is from github"
+NUMBER=$(($NUMBERONE + NUMBERTWO))
+echo "$NUMBER
